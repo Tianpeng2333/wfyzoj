@@ -15,6 +15,10 @@
     "width": null,
     "height": null
   },
+  "ICPlicence":{
+    "enable": false,
+    "ICPid":"xxxx"
+  },
   "register_mail": false,
   "email": {
     "method": "aliyundm",
